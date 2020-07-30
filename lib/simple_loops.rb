@@ -13,6 +13,7 @@ while count<=5 do
 end
 end 
 
+<<<<<<< HEAD
 def loop_message_n_times (message, number)
   count =0
   while count<=number do
@@ -43,3 +44,10 @@ def return_string_array(array)
   end
   new_array
 end
+=======
+
+def output_array (message,number)
+
+  end
+end 
+>>>>>>> eb853aa5ebbe41b21c86e3621639e665ece8fa95
